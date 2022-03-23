@@ -1,0 +1,55 @@
+body{
+
+    background-color: lightskyblue;
+
+}
+
+h1{
+
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4{
+
+    color: crimson;
+
+}
+
+#camera{
+    height: 400px;
+    width: 500px;
+    border: 1px solid rgb(10, 78, 124);
+}
+
+img{
+width: 37%;
+border-radius: 4px;
+padding: 10px;
+box-shadow: 0 6px 8px 0 rgb(206, 90, 214);
+
+}
+
+.column{
+
+    display: inline;
+    padding: 10px;
+
+}
+
+img:hover{
+
+    border-radius: 140px;
+
+}
+.copy_right_footer{
+
+    position: fixed;
+    color: grey;
+    bottom:0;
+    width: 100%;
+    background-color: aliceblue;
+    line-height: 3px;
+    text-align: center;
+}
